@@ -1,0 +1,14 @@
+{
+  "name": "coffee-monitor",
+  "version": "1.0.0",
+  "description": "Web service for office coffee sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Galbraith",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
